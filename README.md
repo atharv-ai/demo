@@ -1,2 +1,0 @@
-# demo
-Auther - Atharv Mahajan
